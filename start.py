@@ -4,7 +4,18 @@ from rand_string.rand_string import RandString
 from colorama import Fore
 
 # start coding folder bomber main
-print(" 😈 Let's Go . . .")
+
+# -------------------------------------------------------------------------
+# I want to make a very simple and stylish banner for this program
+# that if someone runs it, she will be happy!
+# -------------------------------------------------------------------------
+print(Fore.RED+"""
+
+╔═╗┌─┐┬  ┌┬┐┌─┐┬─┐  ╔╗ ┌─┐┌┬┐┌┐ ┌─┐┬─┐
+╠╣ │ ││   ││├┤ ├┬┘  ╠╩╗│ ││││├┴┐├┤ ├┬┘
+╚  └─┘┴─┘─┴┘└─┘┴└─  ╚═╝└─┘┴ ┴└─┘└─┘┴└─
+
+""")
 
 # define counter for making directory
 count = int(input(Fore.YELLOW+" [?] "+Fore.WHITE+"How mony time's ? :  "))
