@@ -2,6 +2,8 @@
 <p align="center">
 <h1>Folder Bomber</h1>
 
+Directory builder virus in one go ( just for fun )
+
 <h1>ScreenShot</h1>
 <img width="890" alt="Screen Shot 1400-10-30 at 21 58 00" src="https://user-images.githubusercontent.com/71524940/150400124-bd9ae11d-a5e6-4a3f-b54b-8d95dbbe69c0.png">
 
