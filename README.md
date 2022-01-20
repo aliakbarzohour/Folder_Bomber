@@ -1,5 +1,7 @@
 <p align="center">
+<span>
 <h1>Folder Bomber</h1>
+</span>
 </p>
 
 <p align="center">
