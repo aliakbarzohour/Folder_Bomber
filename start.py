@@ -1,7 +1,7 @@
 # import librar's
 import os
 from rand_string.rand_string import RandString
-from colorama import Fore, init
+from colorama import Fore
 
 # start coding folder bomber main
 print(" 😈 Let's Go . . .")
