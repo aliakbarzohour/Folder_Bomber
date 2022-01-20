@@ -1,7 +1,7 @@
 <p align="center">
-<span>
+<samp>
 <h1>Folder Bomber</h1>
-</span>
+</samp>
 </p>
 
 <p align="center">
