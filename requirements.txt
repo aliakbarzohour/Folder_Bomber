@@ -1,0 +1,3 @@
+os==latest
+rand_string==latest
+colorama==latest
