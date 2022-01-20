@@ -20,7 +20,7 @@ print(Fore.RED+"""
 # define counter for making directory
 count = int(input(Fore.YELLOW+" [?] "+Fore.WHITE+"How mony time's ? :  "))
 # define lenght for directory name's
-lenght = int(input(Fore.YELLOW+" [?] "+Fore.WHITE+"lenght ? : "))
+lenght = int(input(Fore.YELLOW+"/n [?] "+Fore.WHITE+"lenght ? : \n"))
 # -------------------------------------------------------------------------
 # I'm building this loop to both have better control over the construction
 # of the routes and to be able to reduce my code.
